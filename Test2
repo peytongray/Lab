@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<title>Animals Galore!</title>
+<body>
+    <header>
+    <h1>Birds, Hamsters, and Dogs, Oh My!</h1>
+        <p>Some wonderful photos of cute animals for you to enjoy.</p>
+        <img src="../pics/secret/bird.jpg" width=160>
+        <img src="../pics/secret/hamster.jpg" width=160>
+        <img src="../pics/dog.jpg" width=160>
+        <img src="../pics/kitten.jpg" width=200>
+        <p>The Dragon and Unicorn are not as cute and are categorized as endangered, however they are actually nonexisistent.</p>
+         <img src="../pics/endangered/unicorn.jpg" width=200>
+        <img src="../pics/endangered/dragon.jpg" width=200>
+    </header>
+</body>
